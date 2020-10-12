@@ -1,44 +1,35 @@
 +++
-title = "About"
+title = "Veronica Snoj"
 +++
 
-## About Me
+{{< figure class="avatar" src="/verosnoj.png" >}}
 
-{{< figure class="avatar" src="/avatar.jpg" >}}
+![](verosnoj.png){#id .class width=25% height=25%}
 
-This is a Hugo based resume template. You can find the full source code on [GitHub](https://github.com/ojroques/hugo-researcher).
+Argentinian-Slovenian journalist, polyglot & Russian studies graduate. Currently based in Gdynia, Poland. For some reason, I always end up writing stuff, fiction, non-fiction, or scripts for documentary films. 
 
-## Research Interest
+I tend to report on stories about migrations, Slovenian diasporas & minorities in general, LGBT+ issues, and current affairs of the country I'm located at the moment. Sometimes, business.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I'm a Russian Studies graduate and I'm all into post-Soviet. 
 
-## Publications
+Mostly, I write in Slovene & English.
 
-In chronological order:
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+**Some examples of my work:** 
 
-## Typography
+[Faith and Rainbow, the organization which helps LGBT+ Christians in Poland](https://www.domovina.je/vera-in-mavrica-organizacija-ki-podpira-lgbt-kristjane-na-poljskem/) (*Slovene*)
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+[Dufry sets scenarios for second-half 2020 cash flow as it reopens stores](https://uk.reuters.com/article/uk-dufry-results/dufry-sets-scenarios-for-second-half-2020-cash-flow-expectations-idUKKBN24Z0I0)
 
-Here is a table
+[“It’s easier to find work and a good life here”: Poland attracts immigrants from Western Europe](https://notesfrompoland.com/2020/07/01/its-easier-to-find-work-and-a-good-life-here-poland-attracts-immigrants-from-western-europe/)
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+[An Erasmus exchange during quarantine](https://cafebabel.com/en/article/an-erasmus-exchange-under-quarantine-5eeb5c8ff723b342b9f9e4f2/) 
 
-Here is a horizontal rule
+[Minority SafePack: An initiative to protect European minorities](https://www.thenewfederalist.eu/minority-safepack-an-initiative-to-protect-european-minorities?lang=fr)
 
----
+[Refugee football team in Dresden: Sport doesn't need many words](https://www.domovina.je/begunska-nogometna-ekipa-dresden-karitas-sport-ne-zahteva-veliko-besed/) (*Slovene*)
 
-Here is a blockquote
+**Documentaries I had a hand in:** 
 
-> To a great mind, nothing is little
+[Samo začeti je treba - *You just have to start*](https://youtu.be/uODWDbM4Fjw) (script advisor)
 
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+[Rudolfovi padalci - *Rudolf's Paratroopers*](https://youtu.be/YqGwjjAIzgk) (director's assistant)
