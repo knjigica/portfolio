@@ -1,4 +1,4 @@
-title = "Researcher"
+title = "Veronica Snoj"
 baseURL = "https://example.com"
 theme = "researcher"
 disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
