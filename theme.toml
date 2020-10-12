@@ -9,7 +9,6 @@ min_version = "0.74.3"
 
 [author]
   name = "Veronica Snoj"
-  homepage = "https://oroques.dev/"
 
 [original]
   author = "Ankit Sultana"
