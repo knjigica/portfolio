@@ -8,7 +8,7 @@ math = false  # enable KaTeX (https://katex.org/) globally
 [params]
   author = "Olivier Roques"
   description = "A simple monospaced resume theme for Hugo."
-  favicon = "favicon.ico"  # path to a .ico to use as favicon
+ 
   [params.footer]
     text = "By Olivier Roques"
     url = "https://github.com/ojroques/hugo-researcher"
@@ -22,13 +22,9 @@ math = false  # enable KaTeX (https://katex.org/) globally
     url = "/about"
     weight = 1
   [[menu.main]]
-    name = "Resume"
-    url = "/resume.pdf"
-    weight = 2
-  [[menu.main]]
     name = "Contact"
     url = "/contact"
-    weight = 3
+    weight = 2
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
