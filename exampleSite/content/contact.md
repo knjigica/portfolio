@@ -2,23 +2,8 @@
 title = "Contact"
 +++
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-* Phone: [+91-123123](tel:+91-123123)
+Email: [veronika.snoj@gmail.com](mailto: veronika.snoj@gmail.com)
 
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+[Twitter](https://twitter.com/veronikasnoj?lang=en)
+[LinkedIn](https://www.linkedin.com/in/veronica-snoj-44bab7109/) 
+[Google+](#)
