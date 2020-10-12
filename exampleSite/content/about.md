@@ -2,9 +2,7 @@
 title = "Veronica Snoj"
 +++
 
-{{< figure class="avatar" src="/verosnoj.png" >}}
-
-![](verosnoj.png){#id .class width=25% height=25%}
+{{< figure class="avatar" src="/avatar.png" >}}
 
 Argentinian-Slovenian journalist, polyglot & Russian studies graduate. Currently based in Gdynia, Poland. For some reason, I always end up writing stuff, fiction, non-fiction, or scripts for documentary films. 
 
@@ -33,3 +31,11 @@ Mostly, I write in Slovene & English.
 [Samo začeti je treba - *You just have to start*](https://youtu.be/uODWDbM4Fjw) (script advisor)
 
 [Rudolfovi padalci - *Rudolf's Paratroopers*](https://youtu.be/YqGwjjAIzgk) (director's assistant)
+
+
+
+
+
+
+
+
