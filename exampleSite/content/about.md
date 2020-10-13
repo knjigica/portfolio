@@ -29,6 +29,7 @@ Mostly, I write in Slovene & English.
 [Refugee football team in Dresden: Sport doesn't need many words](https://www.domovina.je/begunska-nogometna-ekipa-dresden-karitas-sport-ne-zahteva-veliko-besed/) (*Slovene*)
 
 [My blog about my student exchange in Berlin](http://izberlinazljubeznijo.blogspot.com/) (*Slovene*)
+
 [My blog about my staying in Kazan](https://ozriseokolisebe.wordpress.com/) (*Slovene*)
 
 **Documentaries I had a hand in:** 
