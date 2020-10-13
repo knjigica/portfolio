@@ -8,7 +8,7 @@ homepage = "https://github.com/ojroques/hugo-researcher"
 min_version = "0.74.3"
 
 [author]
-  name = "Veronica Snoj"
+  name = "Veronica Snoj - Based on a theme created by Olivier Roques"
 
 [original]
   author = "Ankit Sultana"
