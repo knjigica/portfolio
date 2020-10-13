@@ -1,6 +1,6 @@
 # Theme
 
-This is an updated simple monospaced resume theme for Hugo created by Olivier Roques. It was ported from Jekyll theme
+This is an (slightly updated by myself) simple monospaced resume theme for Hugo created by Olivier Roques. It was ported from Jekyll theme
 [ankitsultana/researcher](https://github.com/ankitsultana/researcher).
 
 ## Installation
