@@ -9,7 +9,6 @@ math = false  # enable KaTeX (https://katex.org/) globally
   author = "Olivier Roques"
   description = "A simple monospaced resume theme for Hugo."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
- 
   [params.footer]
     text = "Based on a theme created by Olivier Roques"
     url = "https://github.com/ojroques/hugo-researcher"
