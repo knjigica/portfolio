@@ -10,7 +10,7 @@ math = false  # enable KaTeX (https://katex.org/) globally
   description = "A simple monospaced resume theme for Hugo."
  
   [params.footer]
-    text = "By Olivier Roques"
+    text = "Based on theme made by Olivier Roques"
     url = "https://github.com/ojroques/hugo-researcher"
 
 [permalinks]
