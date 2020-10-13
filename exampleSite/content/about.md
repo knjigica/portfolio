@@ -4,11 +4,13 @@ title = "Veronica Snoj"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-Argentinian-Slovenian journalist, polyglot & Russian studies graduate. Currently based in Gdynia, Poland. For some reason, I always end up writing stuff, fiction, non-fiction, or scripts for documentary films. 
+Hey there! I'm a Argentinian-Slovenian journalist, currently based in [Gdynia, Poland](https://en.wikipedia.org/wiki/Gdynia).
 
-I tend to report on stories about migrations, Slovenian diasporas & minorities in general, LGBT+ issues, and current affairs of the country I'm located at the moment. Sometimes, business.
+I tend to report on stories about migrations, Slovenian diasporas & other minorities, LGBT+ issues, and current affairs of the country I'm around at the time (Slovenia, Russia, Germany, and now, Poland). Sometimes, business.
 
-I'm a Russian Studies graduate and I'm all into post-Soviet. 
+I'm a Russian Studies graduate and I'm interested in exploring anything related to the post-Soviet space. 
+
+Apart from that, I'm a linguistics nerd who speaks Slovene, Spanish, English, Russian, German, intermediate Polish & basic Brazilian Portuguese. 
 
 Mostly, I write in Slovene & English.
 
@@ -25,6 +27,9 @@ Mostly, I write in Slovene & English.
 [Minority SafePack: An initiative to protect European minorities](https://www.thenewfederalist.eu/minority-safepack-an-initiative-to-protect-european-minorities?lang=fr)
 
 [Refugee football team in Dresden: Sport doesn't need many words](https://www.domovina.je/begunska-nogometna-ekipa-dresden-karitas-sport-ne-zahteva-veliko-besed/) (*Slovene*)
+
+[My blog about my student exchange in Berlin](http://izberlinazljubeznijo.blogspot.com/) (*Slovene*)
+[My blog about my staying in Kazan](https://ozriseokolisebe.wordpress.com/) (*Slovene*)
 
 **Documentaries I had a hand in:** 
 
