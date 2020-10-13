@@ -2,7 +2,7 @@
 title = "Veronica Snoj"
 +++
 
-{{< figure class="avatar" src="/avatar.png" >}}
+{{< figure class="avatar" src="/avatar.jpg" >}}
 
 Argentinian-Slovenian journalist, polyglot & Russian studies graduate. Currently based in Gdynia, Poland. For some reason, I always end up writing stuff, fiction, non-fiction, or scripts for documentary films. 
 
