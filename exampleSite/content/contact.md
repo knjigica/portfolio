@@ -2,7 +2,7 @@
 title = "Contact"
 +++
 
-[Email](veronika.snoj@gmail.com)
+[Email](mailto:veronika.snoj@gmail.com)
 
 [Twitter](https://twitter.com/veronikasnoj?lang=en)
 
