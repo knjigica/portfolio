@@ -1,6 +1,6 @@
 name = "Veronica Snoj"
 license = "GPL-3.0"
-licenselink = "https://github.com/ojroques/hugo-researcher/blob/master/LICENSE"
+licenselink = "https://github.com/knjigica/portfolio/blob/master/LICENSE"
 description = "A simple monospaced resume theme for Hugo."
 tags = ["blog", "bootstrap", "clean", "minimal", "personal", "responsive", "resume", "simple"]
 features = ["bootstrap", "responsive", "simple"]
