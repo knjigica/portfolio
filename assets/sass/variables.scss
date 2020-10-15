@@ -5,14 +5,14 @@ $avatar-size: 150px;
 
 // Colors
 $green: #28a745;
-$red: #dc3545;
+$magenta: #8B008B;
 
 // Placeholders
 %link-default {
-    color: $red;
+    color: $magenta;
     text-decoration: none;
     &:hover {
-        color: $red;
+        color: $magenta;
         text-decoration: underline;
     }
 }
