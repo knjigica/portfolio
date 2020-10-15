@@ -46,7 +46,8 @@
         margin: $margin-y auto;
     }
     div > ol {
-        padding-left: 0;
+        padding-left: 25px
+            ;
     }
     ol {
         counter-reset: list;
@@ -63,7 +64,7 @@
         color: inherit;
     }
     div > ul {
-        padding-left: 0;
+        padding-left: 25px;
     }
     ul {
         list-style: inside;
@@ -91,8 +92,9 @@
     }
     .avatar > img {
         border-radius: 70%;
-        float: left;
-        margin: -16px -16px 16px 16px;
+        float: right;
+        margin: 25px;
+        padding: 25px;
         height: $avatar-size;
         width: $avatar-size;
     }
