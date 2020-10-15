@@ -2,6 +2,7 @@
 base = "exampleSite"
 publish = "public"
 command = "hugo --gc --minify --themesDir ../../ -t repo -b $URL"
+ignore = "git diff --quiet HEAD^ HEAD sub_dir/"
 
 [context.production.environment]
 HUGO_VERSION = "0.76.3"
