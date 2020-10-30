@@ -10,7 +10,7 @@ I tend to report on stories about migrations, Slovenian diasporas & other minori
 
 I'm a Russian Studies graduate and I'm interested in exploring anything related to the post-Soviet space. 
 
-Apart from that, I'm a linguistics nerd who speaks Slovene, Spanish, English, Russian, German, intermediate Polish & basic Brazilian Portuguese. Oh, and I'm interested in all languages, also computer ones. I've set up this website on my own and I've also built a little bot for Twitter [@womeninscienc11](https://twitter.com/womeninscienc11)
+Apart from that, I'm a linguistics nerd who speaks Slovene, Spanish, English, Russian, German, intermediate Polish & basic Brazilian Portuguese. I'm interested in languages in general, also the more techie ones. I've set up this website on my own and I've also built a little bot for Twitter [@womeninscienc11](https://twitter.com/womeninscienc11)
 
 Mostly, however, I write in Slovene & English.
 
