@@ -14,6 +14,7 @@ Apart from that, I'm a linguistics nerd who speaks Slovene, Spanish, English, Ru
 
 Mostly, I write in Slovene & English.
 
+
 **Some examples of my work:** 
 
 [Faith and Rainbow, the organization which helps LGBT+ Christians in Poland](https://www.domovina.je/vera-in-mavrica-organizacija-ki-podpira-lgbt-kristjane-na-poljskem/) (*Slovene*)
@@ -32,13 +33,18 @@ Mostly, I write in Slovene & English.
 
 [My blog about my staying in Kazan](https://ozriseokolisebe.wordpress.com/) (*Slovene*)
 
+
 **Documentaries I had a hand in:** 
 
 [Samo začeti je treba - *You just have to start*](https://youtu.be/uODWDbM4Fjw) (script advisor)
 
 [Rudolfovi padalci - *Rudolf's Paratroopers*](https://youtu.be/YqGwjjAIzgk) (director's assistant)
 
-Oh, and I'm interested in all languages, also computer ones. I set up this website on my own and I've also built a little bot for Twitter [@womeninscienc11](https://twitter.com/womeninscienc11)
+
+Oh, and I'm interested in all languages, also computer ones. I've set up this website on my own and I've also built a little bot for Twitter [@womeninscienc11](https://twitter.com/womeninscienc11)
+
+
+
 
 
 
