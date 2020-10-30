@@ -14,10 +14,10 @@ Apart from that, I'm a linguistics nerd who speaks Slovene, Spanish, English, Ru
 
 I'm interested in languages in general, also the more techie ones. I've set up this website on my own and I've also built a little bot for Twitter [@womeninscienc11](https://twitter.com/womeninscienc11)
 
-Mostly, however, I write in Slovene & English.
+Mostly, however, I write in Slovene & English.\
 
 
-**Some examples of my work:** 
+**Some examples of my work:** \
 
 [Faith and Rainbow, the organization which helps LGBT+ Christians in Poland](https://www.domovina.je/vera-in-mavrica-organizacija-ki-podpira-lgbt-kristjane-na-poljskem/) (*Slovene*)
 
@@ -33,10 +33,10 @@ Mostly, however, I write in Slovene & English.
 
 [My blog about my student exchange in Berlin](http://izberlinazljubeznijo.blogspot.com/) (*Slovene*)
 
-[My blog about my staying in Kazan](https://ozriseokolisebe.wordpress.com/) (*Slovene*)
+[My blog about my staying in Kazan](https://ozriseokolisebe.wordpress.com/) (*Slovene*)\
 
 
-**Documentaries I had a hand in:** 
+**Documentaries I had a hand in:** \
 
 [Samo začeti je treba - *You just have to start*](https://youtu.be/uODWDbM4Fjw) (script advisor)
 
