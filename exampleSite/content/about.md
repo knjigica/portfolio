@@ -38,6 +38,8 @@ Mostly, I write in Slovene & English.
 
 [Rudolfovi padalci - *Rudolf's Paratroopers*](https://youtu.be/YqGwjjAIzgk) (director's assistant)
 
+Oh, and I'm interested in all languages, also computer ones. I set up this website on my own and I've also built a little bot for Twitter [@womeninscienc11](https://twitter.com/womeninscienc11)
+
 
 
 
