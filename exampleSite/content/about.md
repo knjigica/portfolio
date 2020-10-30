@@ -10,9 +10,9 @@ I tend to report on stories about migrations, Slovenian diasporas & other minori
 
 I'm a Russian Studies graduate and I'm interested in exploring anything related to the post-Soviet space. 
 
-Apart from that, I'm a linguistics nerd who speaks Slovene, Spanish, English, Russian, German, intermediate Polish & basic Brazilian Portuguese. 
+Apart from that, I'm a linguistics nerd who speaks Slovene, Spanish, English, Russian, German, intermediate Polish & basic Brazilian Portuguese. Oh, and I'm interested in all languages, also computer ones. I've set up this website on my own and I've also built a little bot for Twitter [@womeninscienc11](https://twitter.com/womeninscienc11)
 
-Mostly, I write in Slovene & English.
+Mostly, however, I write in Slovene & English.
 
 
 **Some examples of my work:** 
@@ -41,7 +41,7 @@ Mostly, I write in Slovene & English.
 [Rudolfovi padalci - *Rudolf's Paratroopers*](https://youtu.be/YqGwjjAIzgk) (director's assistant)
 
 
-Oh, and I'm interested in all languages, also computer ones. I've set up this website on my own and I've also built a little bot for Twitter [@womeninscienc11](https://twitter.com/womeninscienc11)
+
 
 
 
