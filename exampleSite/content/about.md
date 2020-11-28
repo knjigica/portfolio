@@ -12,7 +12,7 @@ I'm a Russian Studies graduate and I'm interested in exploring anything related 
 
 Apart from that, I'm a linguistics nerd who speaks Slovene, Spanish, English, Russian, German, intermediate Polish & basic Brazilian Portuguese. 
 
-I'm interested in languages in general, also the more techie ones. I've set up this website on my own and I've also built a little bot for Twitter [@womeninscienc11](https://twitter.com/womeninscienc11)
+I'm interested in languages in general, also the more techie ones. I've set up this website, built a little bot for Twitter [@womeninscienc11](https://twitter.com/womeninscienc11) and coded a bunch of Russia-related news digests [Чё там?](https://cho-tam.blogspot.com/)
 
 Mostly, however, I write in Slovene & English.
 
