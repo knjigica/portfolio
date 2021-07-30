@@ -23,9 +23,9 @@ Mostly, however, I write in Slovene & English.
 
 [HelloFresh sees market normalisation after 2020 home-cooking boom](https://www.reuters.com/article/hellofresh-results-idUSL5N2L02QQ)
 
-[Faith and Rainbow, the organization which helps LGBT+ Christians in Poland](https://www.domovina.je/vera-in-mavrica-organizacija-ki-podpira-lgbt-kristjane-na-poljskem/) (*Slovene*)
-
 [Dufry sets scenarios for second-half 2020 cash flow as it reopens stores](https://uk.reuters.com/article/uk-dufry-results/dufry-sets-scenarios-for-second-half-2020-cash-flow-expectations-idUKKBN24Z0I0)
+
+[Faith and Rainbow, the organization which helps LGBT+ Christians in Poland](https://www.domovina.je/vera-in-mavrica-organizacija-ki-podpira-lgbt-kristjane-na-poljskem/) (*Slovene*)
 
 [“It’s easier to find work and a good life here”: Poland attracts immigrants from Western Europe](https://notesfrompoland.com/2020/07/01/its-easier-to-find-work-and-a-good-life-here-poland-attracts-immigrants-from-western-europe/)
 
