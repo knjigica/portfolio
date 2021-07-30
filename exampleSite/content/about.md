@@ -35,6 +35,12 @@ Mostly, however, I write in Slovene & English.
 
 [Refugee football team in Dresden: Sport doesn't need many words](https://www.domovina.je/begunska-nogometna-ekipa-dresden-karitas-sport-ne-zahteva-veliko-besed/) (*Slovene*)
 
+[Russian students organize excavations of fallen World War II soldiers](https://www.domovina.je/ruski-studentje-organizirano-izkopavajo-padle-vojake-iz-2-svetovne-vojne/) (*Slovene*)
+
+[Priest of the only Catholic parish in Kazan: People find themselves here](https://www.domovina.je/duhovnik-edine-katoliske-zupnije-v-kazanu-ljudje-se-iscejo-in-se-tu-najdejo/) (*Slovene*)
+
+[A museum about the Soviet “golden times”: a nostalgic revival of memories, a niche market or something else?](https://www.domovina.je/muzej-o-sovjetskih-zlatih-casih-nostalgicno-obujanje-spominov-trzna-nisa-ali-kaj-tretjega-2/) (*Slovene*)
+
 [My blog about my student exchange in Berlin](http://izberlinazljubeznijo.blogspot.com/) (*Slovene*)
 
 [My blog about my staying in Kazan](https://ozriseokolisebe.wordpress.com/) (*Slovene*)
