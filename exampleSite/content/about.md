@@ -19,9 +19,9 @@ Mostly, however, I write in Slovene & English.
 
 **Some examples of my work:** 
 
-[HelloFresh sees market normalisation after 2020 home-cooking boom](https://www.reuters.com/article/hellofresh-results-idUSL5N2L02QQ)
+[Dental supplier Straumann raises sales forecast, shares surge](https://www.reuters.com/article/straumann-results-idINL1N2MM0BE)
 
-[Straumann CEO expects China to help growth in 2021](https://www.reuters.com/article/straumann-outlook/straumann-ceo-expects-china-to-help-growth-in-2021-idINL8N2KM1I8)
+[HelloFresh sees market normalisation after 2020 home-cooking boom](https://www.reuters.com/article/hellofresh-results-idUSL5N2L02QQ)
 
 [Faith and Rainbow, the organization which helps LGBT+ Christians in Poland](https://www.domovina.je/vera-in-mavrica-organizacija-ki-podpira-lgbt-kristjane-na-poljskem/) (*Slovene*)
 
