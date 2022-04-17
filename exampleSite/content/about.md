@@ -4,13 +4,13 @@ title = "Veronica Snoj"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-Hey there! I'm a Argentinian-Slovenian journalist, currently based in [Gdynia, Poland](https://en.wikipedia.org/wiki/Gdynia).
+Hey there! I'm a Argentinian-Slovenian journalist. 
 
 I tend to report on stories about migrations, Slovenian diasporas & other minorities, LGBT+ issues, and current affairs of the country I'm around at the time (Slovenia, Russia, Germany, and now, Poland). Sometimes, business.
 
 I'm a Russian Studies graduate and I'm interested in exploring anything related to the post-Soviet space. 
 
-Apart from that, I'm a linguistics nerd who speaks Slovene, Spanish, English, Russian, German, intermediate Polish & basic Brazilian Portuguese. 
+Apart from that, I'm a linguistics nerd who speaks Slovene, Spanish, English, Russian, German, intermediate Polish & basic Brazilian Portuguese. Learning Modern Standard Arabic at the moment.
 
 I'm interested in languages in general, also the more techie ones. I've set up this website, built a little bot for Twitter [@womeninscienc11](https://twitter.com/womeninscienc11) and wrote some code to automate a bunch of Russia-related news digests called [Чё там?](https://cho-tam.blogspot.com/)
 
@@ -19,9 +19,11 @@ Mostly, however, I write in Slovene & English.
 
 **Some examples of my work:** 
 
-[Dental supplier Straumann raises sales forecast, shares surge](https://www.reuters.com/article/straumann-results-idINL1N2MM0BE)
+[Major Russian TV channel presents updated Soviet version of Katyn massacre story](https://monitoring.bbc.co.uk/product/c2033ztv)
 
-[HelloFresh sees market normalisation after 2020 home-cooking boom](https://www.reuters.com/article/hellofresh-results-idUSL5N2L02QQ)
+[The state-backed accelerators drawing foreign startups to Poland](https://notesfrompoland.com/2021/12/10/the-state-backed-accelerators-drawing-foreign-startups-to-poland/)
+
+[Dental supplier Straumann raises sales forecast, shares surge](https://www.reuters.com/article/straumann-results-idINL1N2MM0BE)
 
 [Dufry sets scenarios for second-half 2020 cash flow as it reopens stores](https://uk.reuters.com/article/uk-dufry-results/dufry-sets-scenarios-for-second-half-2020-cash-flow-expectations-idUKKBN24Z0I0)
 
