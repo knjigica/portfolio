@@ -23,8 +23,6 @@ Mostly, however, I write in Slovene & English.
 
 [The state-backed accelerators drawing foreign startups to Poland](https://notesfrompoland.com/2021/12/10/the-state-backed-accelerators-drawing-foreign-startups-to-poland/)
 
-[Dental supplier Straumann raises sales forecast, shares surge](https://www.reuters.com/article/straumann-results-idINL1N2MM0BE)
-
 [Dufry sets scenarios for second-half 2020 cash flow as it reopens stores](https://uk.reuters.com/article/uk-dufry-results/dufry-sets-scenarios-for-second-half-2020-cash-flow-expectations-idUKKBN24Z0I0)
 
 [Faith and Rainbow, the organization which helps LGBT+ Christians in Poland](https://www.domovina.je/vera-in-mavrica-organizacija-ki-podpira-lgbt-kristjane-na-poljskem/) (*Slovene*)
