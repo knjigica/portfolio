@@ -6,7 +6,7 @@ title = "Veronica Snoj"
 
 Hey there! I'm a Argentinian-Slovenian journalist. 
 
-I tend to report on stories about migrations, Slovenian diasporas & other minorities, LGBT+ issues, and current affairs of the country I'm around at the time (Slovenia, Russia, Germany, and now, Poland). Sometimes, business.
+I tend to report on stories about migrations, Slovenian diasporas & other minorities, LGBT+ issues, and current affairs of the country I'm around at the time (Slovenia, Russia, Germany, Poland). Sometimes, business.
 
 I'm a Russian Studies graduate and I'm interested in exploring anything related to the post-Soviet space. 
 
