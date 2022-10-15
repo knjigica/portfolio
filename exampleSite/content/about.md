@@ -19,6 +19,10 @@ Mostly, however, I write in Slovene & English.
 
 **Some examples of my work:** 
 
+[Five ways independent news media get around censorship in Russia](https://thefix.media/2022/9/20/five-ways-independent-news-media-get-around-censorship-in-russia)
+
+[How Russian youth media operates in times of war and state repression](https://thefix.media/2022/9/20/five-ways-independent-news-media-get-around-censorship-in-russia)
+
 [Major Russian TV channel presents updated Soviet version of Katyn massacre story](https://monitoring.bbc.co.uk/product/c2033ztv)
 
 [The state-backed accelerators drawing foreign startups to Poland](https://notesfrompoland.com/2021/12/10/the-state-backed-accelerators-drawing-foreign-startups-to-poland/)
