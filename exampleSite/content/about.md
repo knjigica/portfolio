@@ -10,9 +10,9 @@ I tend to report on stories about censorship and propaganda, migrations, Sloveni
 
 I'm a Russian Studies graduate and I'm interested in exploring anything related to the post-Soviet space. 
 
-Apart from that, I'm a linguistics nerd who speaks Slovene, Spanish, English, Russian, German, intermediate Polish & basic Brazilian Portuguese. Learning Modern Standard Arabic at the moment.
+Apart from that, I'm a linguistics nerd who speaks Slovene, Spanish, English, Russian, Arabic (MSA + Egyptian dialect), Polish and German.
 
-I'm interested in languages in general, also the more techie ones. I've set up this website, built a little bot for Twitter [@womeninscienc11](https://twitter.com/womeninscienc11) and wrote some code to automate a bunch of Russia-related news digests called [Чё там?](https://cho-tam.blogspot.com/)
+I'm interested in languages in general, also the more "techie" ones. I've set up this website, built a little bot for Twitter [@womeninscienc11](https://twitter.com/womeninscienc11) and wrote some code to automate a bunch of Russia-related news digests called [Чё там?](https://cho-tam.blogspot.com/)
 
 Mostly, however, I write in Slovene & English.
 
